@@ -1,8 +1,7 @@
 # Real-Time Payment & Transaction Processing Platform
 
 A production-grade payment backend built to simulate a modern enterprise
-banking/payment system. This is a long-term portfolio project focused on
-**real backend engineering problems** — not a CRUD demo.
+banking/payment system.
 
 ## Current status
 
